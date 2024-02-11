@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Big Data Engineer](/pdf/sample_presentation.pdf)
+[Big Data Engineer](/SFR_Experience.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
