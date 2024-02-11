@@ -2,22 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Professional Experience 
 
-[Project 1 Title](/sample_page)
+[Lead Developer, Machine Learning Model Deployment and Web Application Development](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Big Data Engineer](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Portfolio Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,6 +23,9 @@
 
 ---
 
+### Education
+
+---
 
 
 
